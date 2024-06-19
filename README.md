@@ -1,5 +1,7 @@
 # Sensor Graph App for Flutter
-Displays device sensor values captured realtime in a line graph.
+Displays device sensor values captured realtime in a line graph.  
+iOS Version: https://github.com/thomasquinto/sensor-graph-ios  
+Android Version: https://github.com/thomasquinto/sensor-graph-android  
 # Video
 https://github.com/thomasquinto/sensor-graph-flutter/assets/217340/ee080f48-75a7-49b0-b539-fd972d894066
 # Screenshots
